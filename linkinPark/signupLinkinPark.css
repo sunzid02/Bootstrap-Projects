@@ -1,0 +1,159 @@
+
+/*............................SignUp.......................................*/
+
+
+body, html {
+    height: 100%;
+	width:100%;
+	background-color:#191D38;
+}
+
+#bg
+{
+	background: url("lpp.jpg");
+	
+	
+	
+	height: 100%;
+	width:100%;
+
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	position:absolute;
+	
+}
+
+#bg .h1
+{
+	color:white;
+}
+.form-container
+{
+	border: 1px solid #191D38;
+	padding: 60px 30px;
+	background-color:#191D38;
+	
+	
+}
+
+/* inputIcon*/
+.inputWithIconUserLastName
+{
+	position:relative;
+	position: absolute;
+	left:0;
+	top:180px;
+	padding: 10px 50px;
+	color:black;
+}
+
+.inputWithIconUserFirstName
+{
+	
+	position: absolute;
+	left:0;
+	top:126px;
+	padding: 10px 50px;
+	color:black;
+}
+
+
+
+.inputWithIconCounty
+{
+	position:relative;
+	position: absolute;
+	left:0;
+	top:225px;
+	padding: 10px 50px;
+	color:black;
+}
+
+.inputWithIconCellPhone
+{
+	position:relative;
+	position: absolute;
+	left:0;
+	top:270px;
+	padding: 10px 50px;
+	color:black;
+}
+
+.inputWithIconEmail
+{
+	position:relative;
+	position: absolute;
+	left:0;
+	top:322px;
+	padding: 10px 50px;
+	color:black;
+	
+}
+
+
+.inputWithIconPass
+{
+	position:relative;
+	position: absolute;
+	left:0;
+	top:370px;
+	padding: 10px 50px;
+	
+}
+
+.inputWithIconConfirmPass
+{
+	position:relative;
+	position: absolute;
+	left:0;
+	top:418px;
+	padding: 10px 50px;
+	
+}
+
+.inputWithIconUserFirstName, 
+
+.inputWithIconCounty,
+.inputWithIconPass, 
+.inputWithIconConfirmPass, .inputWithIconCellPhone, .inputWithIconEmail
+{
+	margin-top:5px;
+}
+
+
+
+/*
+.pl
+{
+	padding-left:20px;
+}
+
+
+.butto
+{
+	color: blue;
+	background-color:blue;
+}
+
+.ttitle
+{
+	color: white;
+}
+*/
+
+button[type=submit]
+{
+ 
+  background-color:blue;
+  color: white;
+
+}
+#bi
+{
+	margin-top:100px;
+	position:absolute;
+}
+
+/*...........SignUpEnds....................................................*/
